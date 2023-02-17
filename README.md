@@ -25,3 +25,6 @@ To create a Testnet account, follow the instructions on the Concordium documenta
 To use your Testnet account with Concordium-client, you need to export it from the web wallet and import it into Concordium-client. Follow the instructions on the Concordium documentation to learn how to do this.
 
 
+
+## Mainnet wallet
+3JRCMzAFT5EnZ8GGWupMgTNnsW51sVfDNTz939A8n7BVUbK1S7
